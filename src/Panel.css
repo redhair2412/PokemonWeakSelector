@@ -1,0 +1,36 @@
+
+.PNL {
+    background-color: grey;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    width: 150px;
+    height: 180px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.PNL:hover{
+    background-color: rgb(182, 183, 197);
+}
+
+.pokeImg{
+    margin-top: -5px;
+}
+
+.Potext{
+    /* font-size: .9em; */
+    margin-top: -25px;
+    line-height: 60%;
+    
+}
+
+p{
+    font-size: .9em;
+}
+
+.breakWord{
+    overflow: auto;
+}

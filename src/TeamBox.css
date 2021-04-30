@@ -1,0 +1,15 @@
+.emptyBox {
+
+    background-color: rgb(63, 63, 63);
+    border-color: red;
+    border-style: solid;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    width: 120px;
+    height: 150px;
+    vertical-align: middle;
+    cursor: pointer;
+}
